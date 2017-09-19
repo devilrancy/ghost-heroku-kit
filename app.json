@@ -7,9 +7,9 @@
     "ghost",
     "heroku"
   ],
-  "website": "http://ghost-heroku-kit.herokuapp.com",
-  "repository": "https://github.com/joeyespo/ghost-heroku-kit",
-  "logo": "https://raw.githubusercontent.com/joeyespo/ghost-heroku-kit/master/content/images/logo.png",
+  "website": "http://devilghost.herokuapp.com",
+  "repository": "https://github.com/devilrancy/ghost-heroku-kit",
+  "logo": "https://raw.githubusercontent.com/devilrancy/ghost-heroku-kit/master/content/images/logo.png",
   "success_url": "/ghost",
   "env": {
     "SITE_URL": {
